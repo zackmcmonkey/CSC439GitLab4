@@ -1,6 +1,6 @@
 <?php
 require_once 'Main.php';
-
+/* Comment added to test GIT */
 use PHPUnit\Framework\TestCase;
 
 class ControllerTest extends TestCase
