@@ -1,6 +1,6 @@
 <?php
 declare(strict_types=1);
-
+/* Comment added to test GIT */
 class YahtzeeController {
     
     private Yahtzee $model;
